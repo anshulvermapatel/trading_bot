@@ -1,0 +1,11 @@
+{
+  "strategy": "ema_rsi_atr",
+  "symbol": "NIFTY",
+  "timeframe": "15m",
+  "data_source": "mock",
+  "broker": "mock",
+  "zerodha": {
+    "api_key": "",
+    "access_token": ""
+  }
+}
